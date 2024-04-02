@@ -1,4 +1,4 @@
-Simon Game
+SIMON GAME,
 Welcome to the Simon Game project! This project was created as part of my learning journey in web development.
 
 Description
